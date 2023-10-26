@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drk-codey
 - 👀 I’m interested in Frondend Dev
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React and Tailwind Css
 - 💞️ I’m looking to collaborate on Open source project
 - 📫 How to reach me ...
 
